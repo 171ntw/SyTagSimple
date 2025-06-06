@@ -1,5 +1,0 @@
-name: PluginTags
-version: '1.0'
-main: dev.github.nathan.pluginRank.PluginRank
-commands:
-  tags:
